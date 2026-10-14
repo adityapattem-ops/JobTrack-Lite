@@ -42,3 +42,28 @@ This is a console-based learning project, not a deployed web application. Verify
 
 ## Author
 Aditya Pattem 
+Screenshots
+
+Screenshot 1
+
+"JobTrack Lite Screenshot 1" (file_000000008b248211a30722061c58fc01.png)
+
+Screenshot 2
+
+"JobTrack Lite Screenshot 2" (file_000000008b248211a30722061c58fc01%281%29.png)
+
+Screenshot 3
+
+"JobTrack Lite Screenshot 3" (file_000000008b248211a30722061c58fc01%282%29.png)
+
+Screenshot 4
+
+"JobTrack Lite Screenshot 4" (file_000000008b248211a30722061c58fc01%283%29.png)
+
+Screenshot 5
+
+"JobTrack Lite Screenshot 5" (file_000000008b248211a30722061c58fc01%284%29.png)
+
+Screenshot 6
+
+"JobTrack Lite Screenshot 6" (file_000000008b248211a30722061c58fc01%285%29.png)
